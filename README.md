@@ -7,6 +7,7 @@ This project involves building a multi-class image classification model using a 
 - [Installation](#image-processing-using-tensorflow)
 
 - [License](./License)
+- [run](#run)
 
 ## Installation
 
@@ -15,5 +16,12 @@ Instructions on how to install the project, including any dependencies that need
  pip install tensorflow
 
 ## License
+
+## run
+ python tensorflow_img_processing.py
+  
+  # Example usage
+  image_path = 'replace with image path'  # Update this path to the correct image file
+  result = process_and_predict(image_path)
 
 Information about the project's license and any usage restrictions.
